@@ -69,6 +69,12 @@ Model 4 Gradient Boosted Tree:  We use GBT since it builds sequential models to 
 
 Model 5: Factorization Machine Classifier: We use this since it handles sparse data efficiently, from our research we saw that many recommendation systems use this model due to its high accuracy in predicting complex purchasing behaviour.
 
+## Model Comparision
+
+![image](https://github.com/Vishweshpurohit/Deposit-opening-classification-problem/assets/111001693/7790e5ae-3895-4ac1-a36a-4fc84392a955)
+
+We look at the TP values for the all the models, as it is the most important validation parameter for this study.
+
 ## Model Selection
 
 ![image](https://github.com/Vishweshpurohit/Deposit-opening-classification-problem/assets/111001693/8b8f7f66-3aa0-4fc9-af56-6732e38dd26d)
